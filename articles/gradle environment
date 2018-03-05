@@ -1,0 +1,3 @@
+A brief overview on what is gradle and how,why integrated with android development environment https://stackoverflow.com/questions/16754643/what-is-gradle-in-android-studio
+Gradle documentation https://docs.gradle.org/current/userguide/writing_build_scripts.html  built on groovy language
+Executing multiple projects: https://docs.gradle.org/current/userguide/intro_multi_project_builds.html
