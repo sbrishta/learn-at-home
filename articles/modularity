@@ -3,3 +3,5 @@ mvp implementation: https://medium.com/mobiwise-blog/android-basic-project-archi
 good read should be https://medium.freecodecamp.org/how-modularisation-affects-build-time-of-an-android-application-43a984ce9968
 On synchronization: https://www.dre.vanderbilt.edu/~schmidt/PDF/PatternPaperv11.pdf
 https://software.intel.com/en-us/android/articles/handling-offline-capability-and-data-sync-in-an-android-app-part-2 from IBM
+Mindorks mvp architecture: https://github.com/MindorksOpenSource/android-mvp-architecture/blob/master/app/src/main/java/com/mindorks/framework/mvp/di/module/ActivityModule.java
+github issue on multi layer design and document: https://github.com/google/dagger/issues/636
