@@ -5,3 +5,5 @@ On synchronization: https://www.dre.vanderbilt.edu/~schmidt/PDF/PatternPaperv11.
 https://software.intel.com/en-us/android/articles/handling-offline-capability-and-data-sync-in-an-android-app-part-2 from IBM
 Mindorks mvp architecture: https://github.com/MindorksOpenSource/android-mvp-architecture/blob/master/app/src/main/java/com/mindorks/framework/mvp/di/module/ActivityModule.java
 github issue on multi layer design and document: https://github.com/google/dagger/issues/636
+https://medium.com/mindorks/writing-a-modular-project-on-android-304f3b09cb37
+https://medium.com/mindorks/ultimate-android-app-project-structure-a-d-s-003-4e8ce8499469
